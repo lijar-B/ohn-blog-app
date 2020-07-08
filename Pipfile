@@ -13,6 +13,7 @@ flask-sqlalchemy = "*"
 pandas = "*"
 matplotlib = "*"
 smartcloud = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
