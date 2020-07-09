@@ -13,7 +13,6 @@ flask-sqlalchemy = "*"
 pandas = "*"
 matplotlib = "*"
 smartcloud = "*"
-pygame = "*"
 
 [requires]
 python_version = "3.8"
